@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    {
+      "name": "Source Han Sans CN (思源黑体 CN VF)",
+      "file": "SourceHanSansCN/SourceHanSansCN-VF.otf",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "SourceHanSansCN/LICENSE.txt",
+      "sha256": "ad10f878ea1af97d66ec8bd10eb39798784f3a1ee3d5987a570ef6083f941ef3",
+      "role": "内置兜底与跨平台开源字体（本地安装 MiSans Global 时脚本优先使用 MiSans）"
+    }
+  ]
+}

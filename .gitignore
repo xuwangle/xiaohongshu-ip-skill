@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
+work/
+output/
+raw/
+assets/fonts/MiSans*/
+*.ttf
+!assets/fonts/SourceHanSansCN/*.otf
